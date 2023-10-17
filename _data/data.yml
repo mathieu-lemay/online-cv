@@ -66,25 +66,15 @@ experiences:
     info:
       #- role: Consultant
         #time: 2023 - Present
-        #company: BoostSecurity.io
+        #company: RogueConsulting.dev
         #details: |
-          #Describe your role here lorem ipsum dolor sit amet, consectetuer
-          #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          #Cum sociis natoque penatibus et magnis dis parturient montes,
-          #nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          #error sit voluptatem accusantium doloremque laudantium, totam rem
-          #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          #architecto beatae vitae dicta sunt explicabo.
-            #- Bullet point
-            #- Bullet point
+            #- Rogueing
       - role: Senior Software Developer
         time: 2022 - 2023
         company: BoostSecurity.io
         details: |
           - Designed and implemented multiple microservices for the main BoostSecurity.io platform.
-          - Implemented a managed system to provision and run security scanners in our customer's different CI systems (Azure Devops, Bitbucket Pipelines, GitHub Actions, GitLab CI/CD).
+          - Implemented a managed system to provision and run security scanners in our customers' different CI systems (Azure Devops, Bitbucket Pipelines, GitHub Actions, GitLab CI/CD).
           - Enforced good code practices to ensure the maintainability and testability of our software.
       - role: Staff Software Developer
         time: 2017 - 2022
@@ -108,7 +98,7 @@ previous_experiences:
       - role: Software Developer
         time: 2011 - 2016
         company: GEE Media
-      - role: Sofrware Developer
+      - role: Software Developer
         time: 2009 - 2011
         company: BiblioMondo
 
