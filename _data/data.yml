@@ -64,11 +64,12 @@ education:
 experiences:
     title: Relevant work experience
     info:
-      #- role: Consultant
-        #time: 2023 - Present
-        #company: RogueConsulting.dev
-        #details: |
-            #- Rogueing
+      - role: Consultant
+        time: 2023 - Present
+        company: Self employed
+        details: |
+          - Helping a customer switch from Bitbucket + Bitbucket Pipelines to GitHub + CircleCI
+          - Helping a customer move a legacy API to Docker + Kubernetes
       - role: Senior Software Developer
         time: 2022 - 2023
         company: BoostSecurity.io
